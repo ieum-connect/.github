@@ -2,9 +2,9 @@
 
 <img src="./assets/dodam-project-showcase.png" width="100%" alt="도담 서비스 로고와 주요 화면" />
 
-# 도담 DODAM
+# 💗 도담 DODAM
 
-## 오늘의 기록이 내일의 돌봄이 됩니다
+## 🌱 오늘의 기록이 내일의 돌봄이 됩니다
 
 **아이의 검진 결과를 읽고, 필요한 돌봄으로**
 
@@ -21,7 +21,7 @@
 
 ---
 
-## WHY DODAM?
+## 💡 WHY DODAM?
 
 ### 아이를 위한 정보는 많지만, 우리 아이에게 필요한 정보는 찾기 어렵습니다
 
@@ -36,21 +36,21 @@
 
 ---
 
-## HOW TO USE DODAM?
+## 🧭 HOW TO USE DODAM?
 
 ### 검진 설명부터 맞춤 복지까지, 도담 하나로 챙깁니다
 
 | STEP | 기능 | 도담이 돕는 일 |
 |:---:|---|---|
-| `01` | **건강 메모 · 일정 · 성장 기록** | 증상·식사·수면과 키·몸무게를 기록하고, 가족이 일정과 기록을 함께 확인합니다. 흩어진 정보를 아이별 타임라인에서 한눈에 볼 수 있습니다. |
-| `02` | **예방접종 관리** | 만 12세까지 남은 접종을 알려 주고 캘린더에 담습니다. 이미 맞은 접종은 공식 사이트와 연동해 확인할 수 있어 다음 접종 시점을 놓치지 않습니다. |
-| `03` | **병원 기록 · 문서 보관 · 복약 알림** | 결과서·진단서·처방전을 방문 기록과 연결하고, 처방전에 맞춰 복약 일정을 관리합니다. 서랍 속 종이를 다시 찾을 필요가 없습니다. |
-| `04` | **AI 도담** | 올린 건강 문서를 쉬운 말로 풀고 이전 검진 결과와 비교합니다. 문서 근거와 출처를 함께 보여 주어 검색하지 않아도 핵심을 이해할 수 있습니다. |
-| `05` | **맞춤 복지 추천** | 아이의 연령·지역·가족 프로필을 바탕으로 관련 복지 사업과 신청 조건·준비 서류를 안내해 몰라서 놓치던 지원을 찾도록 돕습니다. |
+| `01` | **📝 건강 메모 · 일정 · 성장 기록** | 증상·식사·수면과 키·몸무게를 기록하고, 가족이 일정과 기록을 함께 확인합니다. 흩어진 정보를 아이별 타임라인에서 한눈에 볼 수 있습니다. |
+| `02` | **💉 예방접종 관리** | 만 12세까지 남은 접종을 알려 주고 캘린더에 담습니다. 이미 맞은 접종은 공식 사이트와 연동해 확인할 수 있어 다음 접종 시점을 놓치지 않습니다. |
+| `03` | **🏥 병원 기록 · 문서 보관 · 복약 알림** | 결과서·진단서·처방전을 방문 기록과 연결하고, 처방전에 맞춰 복약 일정을 관리합니다. 서랍 속 종이를 다시 찾을 필요가 없습니다. |
+| `04` | **🤖 AI 도담** | 올린 건강 문서를 쉬운 말로 풀고 이전 검진 결과와 비교합니다. 문서 근거와 출처를 함께 보여 주어 검색하지 않아도 핵심을 이해할 수 있습니다. |
+| `05` | **🎁 맞춤 복지 추천** | 아이의 연령·지역·가족 프로필을 바탕으로 관련 복지 사업과 신청 조건·준비 서류를 안내해 몰라서 놓치던 지원을 찾도록 돕습니다. |
 
 <div align="center">
 
-**건강 기록**　→　**AI 해석·비교**　→　**맞춤 복지**
+**📝 건강 기록**　→　**🤖 AI 해석·비교**　→　**🎁 맞춤 복지**
 
 </div>
 
@@ -67,7 +67,7 @@
 
 ---
 
-## TEAM IEUM
+## 👨‍👩‍👧‍👦 TEAM IEUM
 
 <div align="center">
 
@@ -79,21 +79,21 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/yendlessse">
-        <img src="https://github.com/yendlessse.png" width="120" height="120" alt="유한세 GitHub 프로필" /><br />
+        <img src="./assets/team-yuhanse.png" width="160" height="160" alt="유한세 팀 프로필 캐릭터" /><br />
         <b>유한세</b>
       </a><br />
       <sub>@yendlessse</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/MadVedi">
-        <img src="https://github.com/MadVedi.png" width="120" height="120" alt="정재헌 GitHub 프로필" /><br />
+        <img src="./assets/team-jaeheon.png" width="160" height="160" alt="정재헌 팀 프로필 캐릭터" /><br />
         <b>정재헌</b>
       </a><br />
       <sub>@MadVedi</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/choihwanwoo">
-        <img src="https://github.com/choihwanwoo.png" width="120" height="120" alt="최환우 GitHub 프로필" /><br />
+        <img src="./assets/team-hwanwoo.png" width="160" height="160" alt="최환우 팀 프로필 캐릭터" /><br />
         <b>최환우</b>
       </a><br />
       <sub>@choihwanwoo</sub>
@@ -103,9 +103,9 @@
 
 ---
 
-## TECH STACK
+## 🛠️ TECH STACK
 
-### Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -114,7 +114,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=20232A)
 ![CSS](https://img.shields.io/badge/Mobile_First_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Spring Backend
+### ⚙️ Spring Backend
 
 ![Java](https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -124,7 +124,7 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### AI Backend
+### 🤖 AI Backend
 
 ![Python](https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -135,7 +135,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=20232A)
 
-### Infrastructure
+### ☁️ Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS_EC2_·_S3-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -145,7 +145,7 @@
 
 ---
 
-## SERVICE ARCHITECTURE
+## 🏗️ SERVICE ARCHITECTURE
 
 ```mermaid
 flowchart LR
@@ -170,15 +170,15 @@ flowchart LR
 
 ---
 
-## REPOSITORY
+## 🗂️ REPOSITORY
 
 | Repository | 담당 영역 | 핵심 구성 |
 |---|---|---|
-| [Dodam_frontend](https://github.com/ieum-connect/Dodam_frontend) | 모바일 중심 UI, PWA, Push 수신 | React · Vite · Firebase FCM · Nginx |
-| [Dodam_backend](https://github.com/ieum-connect/Dodam_backend) | 인증·권한, 아이·기록·일정·접종·복지, AI 중계 | Java 17 · Spring Boot 3.3 · JPA · Flyway |
-| [Dodam_AI_backend](https://github.com/ieum-connect/Dodam_AI_backend) | 의료 문서 처리, 임베딩·검색, RAG 답변과 안전 정책 | Python 3.12+ · FastAPI · SQLAlchemy · pgvector |
-| [Dodam_infra](https://github.com/ieum-connect/Dodam_infra) | 배포·프록시·데이터베이스·백업·운영 | AWS · Docker Compose · Nginx · GitHub Actions |
-| [.github](https://github.com/ieum-connect/.github) | 조직 프로필과 공통 프로젝트 소개 | GitHub Organization Profile |
+| 🎨 [Dodam_frontend](https://github.com/ieum-connect/Dodam_frontend) | 모바일 중심 UI, PWA, Push 수신 | React · Vite · Firebase FCM · Nginx |
+| ⚙️ [Dodam_backend](https://github.com/ieum-connect/Dodam_backend) | 인증·권한, 아이·기록·일정·접종·복지, AI 중계 | Java 17 · Spring Boot 3.3 · JPA · Flyway |
+| 🤖 [Dodam_AI_backend](https://github.com/ieum-connect/Dodam_AI_backend) | 의료 문서 처리, 임베딩·검색, RAG 답변과 안전 정책 | Python 3.12+ · FastAPI · SQLAlchemy · pgvector |
+| ☁️ [Dodam_infra](https://github.com/ieum-connect/Dodam_infra) | 배포·프록시·데이터베이스·백업·운영 | AWS · Docker Compose · Nginx · GitHub Actions |
+| 🏠 [.github](https://github.com/ieum-connect/.github) | 조직 프로필과 공통 프로젝트 소개 | GitHub Organization Profile |
 
 <details open>
 <summary><b>📂 저장소별 구조 자세히 보기</b></summary>
@@ -222,7 +222,7 @@ ieum-connect/
 
 ---
 
-## CONVENTION
+## 🤝 CONVENTION
 
 모든 저장소는 **Issue → Branch → Commit → Pull Request → Review → Squash Merge** 흐름을 공통으로 사용합니다. 변경 이유와 검증 결과가 기록으로 남고, 다른 저장소에 미치는 영향까지 추적할 수 있는 개발 문화를 지향합니다.
 
@@ -234,7 +234,7 @@ flowchart LR
 ```
 
 <details open>
-<summary><b>1. Issue Convention</b></summary>
+<summary><b>1. 📌 Issue Convention</b></summary>
 
 모든 작업은 Issue에서 시작합니다. 기능·버그·문서·운영 작업을 Issue 없이 바로 구현하지 않습니다.
 
@@ -265,7 +265,7 @@ flowchart LR
 </details>
 
 <details open>
-<summary><b>2. Branch Convention</b></summary>
+<summary><b>2. 🌿 Branch Convention</b></summary>
 
 ```text
 <type>/<issue-number>-<short-kebab-case-description>
@@ -298,7 +298,7 @@ docs/63-readme-refresh
 </details>
 
 <details open>
-<summary><b>3. Commit Convention</b></summary>
+<summary><b>3. ✍️ Commit Convention</b></summary>
 
 ```text
 <type>(<scope>): <english imperative subject>
@@ -337,7 +337,7 @@ Refs: #42
 </details>
 
 <details open>
-<summary><b>4. Pull Request Convention</b></summary>
+<summary><b>4. 🔍 Pull Request Convention</b></summary>
 
 ```text
 <type>(<scope>): <한국어 변경 요약>
@@ -379,7 +379,7 @@ PR 본문은 아래 순서를 지킵니다.
 </details>
 
 <details open>
-<summary><b>5. Review Convention</b></summary>
+<summary><b>5. 👀 Review Convention</b></summary>
 
 | Prefix | 의미 | 처리 기준 |
 |---|---|---|
@@ -397,7 +397,7 @@ PR 본문은 아래 순서를 지킵니다.
 </details>
 
 <details open>
-<summary><b>6. Test · Quality Gate</b></summary>
+<summary><b>6. ✅ Test · Quality Gate</b></summary>
 
 | 저장소 | Merge 전 필수 확인 |
 |---|---|
@@ -414,7 +414,7 @@ PR 본문은 아래 순서를 지킵니다.
 </details>
 
 <details open>
-<summary><b>7. Security · Data Convention</b></summary>
+<summary><b>7. 🔐 Security · Data Convention</b></summary>
 
 - `.env`, Token, Secret, 운영 Credential, 실제 개인정보와 의료 문서를 Commit하지 않습니다.
 - 예시는 비식별 Dummy Data만 사용하고 Log에도 문서 원문·민감정보를 남기지 않습니다.
@@ -426,7 +426,7 @@ PR 본문은 아래 순서를 지킵니다.
 </details>
 
 <details open>
-<summary><b>8. Definition of Done</b></summary>
+<summary><b>8. 🎯 Definition of Done</b></summary>
 
 - [ ] 연결된 Issue의 목표와 완료 조건을 충족했습니다.
 - [ ] 변경 범위에 맞는 Test·Build·Lint를 통과했습니다.
@@ -440,7 +440,7 @@ PR 본문은 아래 순서를 지킵니다.
 </details>
 
 <details>
-<summary><b>9. Issue · PR Template 및 상세 문서</b></summary>
+<summary><b>9. 🧩 Issue · PR Template 및 상세 문서</b></summary>
 
 | 문서 | 바로가기 |
 |---|---|
@@ -456,7 +456,7 @@ PR 본문은 아래 순서를 지킵니다.
 
 <div align="center">
 
-### 이해하고, 비교하고, 챙기고, 기록하는 도담
+### 💗 이해하고, 비교하고, 챙기고, 기록하는 도담
 
 **아이의 오늘을 기록하고, 가족의 내일을 돌봅니다.**
 
